@@ -1,0 +1,229 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@100;200;300;400;500&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;1,300;1,400&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,400;1,800&family=Raleway:wght@100;200;300;400;500&family=Roboto:wght@100;300;400;500&display=swap'); */
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "raleway", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #1a1d20;
+}
+
+
+
+/* Seccion Buscador */
+
+.seccionBuscador{
+    width: 100%;
+    height: 620px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.h1 {
+    color: #ffffff;
+    margin: 120px 0px 100px 0px;
+    text-shadow: 2px 2px #e9ecef2f;
+    padding: 10px;
+}
+
+.div1sB{
+    display: flex;
+    justify-content: center;
+}
+
+.btnBuscar {
+    background-color: #212529;
+    color: #e9ecef;
+    padding: 7px;
+    border-radius: 5px;
+    border: none;
+    font-weight: 500;
+     letter-spacing: 1px;
+     transition: all .5s;
+}
+
+.btnBuscar:hover {
+    background-color: #e9ecef;
+    color: #212529;
+}
+
+.input{
+    padding: 7px;
+    border-radius: 5px;
+    background-color: #212529;
+    outline: none;
+    color: #e9ecef;
+    border: none;
+    width: 250px;
+}
+
+.btnPais {
+    border: none;
+    border-radius: 10px;
+    width: 170px;
+    height: 120px;
+    background: transparent;
+}
+
+.imgBtnPais {
+    border-radius: 10px;
+    width: 170px;
+    height: 120px;
+}
+
+.imgActive {
+    width: 170px;
+    height: 120px;
+    border-radius: 10px;
+}
+
+.icono {
+    background-color: transparent;
+}
+
+
+/* Seccion Pais */
+
+.contenedorPais {
+    background-color: #1a1d20;
+}
+
+.divInfoDePais {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #1a1d20;
+    margin: -100px 0px 20px 0px;
+}
+
+.div1Info {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #1a1d20;
+    color: #e9ecef;
+    border: 1px solid #e9ecefa9;
+}
+
+
+
+.div2Info {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #1a1d20;
+    color: #e9ecef;
+    border: 1px solid #e9ecefa9;
+}
+
+
+.divImgInfo {
+    height: 50%;
+}
+
+.h4Info {
+  font-weight: 300;
+}
+
+h5 {
+    width: 100%;
+    font-weight: 300;
+}
+
+.spanInfo {
+font-size: 17px;
+font-weight: 600;
+}
+
+.spanInfoNumero {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Footer */
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer {
+    background-color: #212529;
+}
+.pFooter {
+    margin: 5px;
+    color: #e9ecef;
+    font-weight: 400;
+    background-color: #212529;
+}
+.spanFooter{
+    color: #e9ecef;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    background-color: #212529;
+}
+
+
+
+/* RESPONSIVE */
+
+
+@media (max-width: 576px) { 
+    .divInfoDePais {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: -10px 0px 20px 0px;
+    }
+
+    .div1Info {
+        width: 300px;
+        height: 400px;
+        padding: 20px;
+  
+    }
+
+    .div2Info {
+        width: 300px;
+        height: 400px;
+        padding: 20px;
+    
+    }
+    
+    .h1 {
+        color: #ffffff;
+        padding: 20px;
+        margin: 120px 0px 100px 0px;
+    }
+    
+
+    .formBuscador {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+    .btnBuscar {
+    margin-bottom: 10px;
+    
+    }
+}

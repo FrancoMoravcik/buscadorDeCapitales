@@ -1,0 +1,395 @@
+[
+    {"id" : 1, "pais": "Afganistán", "capital": "kabul", "img": "img/Afghanistan.png", "poblacion": "36 373 172", "continente": "Asia", "superficie": "652 090 km²", "moneda": "Afgani afgano (AFN)", "paisesLimitrofes": " China, Irán, Pakistán, Tayikistán, Turkmenistán, Uzbekistán", "idiomaOficial": "Dari, Pastún"},
+
+    {"id" : 2, "pais": "Albania", "capital": "Tirana", "img": "img/Albania.png", "poblacion": " 2 934 363", "continente": "Europa", "superficie": "28 748 km²", "moneda": "Lek albanés (ALL)", "paisesLimitrofes": "Grecia, Kosovo, Montenegro, Macedonia", "idiomaOficial": "Albanés"},
+  
+    {"id" : 3, "pais": "Alemania", "capital": "Berlin", "img": "img/Alemania.png", "poblacion": " 82 293 457", "continente": "Europa", "superficie": "357 021 km²", "moneda": "Euro (EUR)", "paisesLimitrofes": "Austria, Bélgica, Dinamarca, Francia, Luxemburgo, Países Bajos, Polonia, República Checa, Suiza", "idiomaOficial": "Alemán"},
+   
+    {"id" : 4, "pais": "Andorra", "capital": "Andorra La Vieja", "img": "img/Andorre.png", "poblacion": "76 953", "continente": "Europa", "superficie": "468 km²", "moneda": "Euro (EUR)", "paisesLimitrofes": "España, Francia", "idiomaOficial": "Catalán"},
+   
+    {"id" : 5, "pais": "Angola", "capital": "Luanda", "img": "img/Angola.png", "poblacion": "30 774 205", "continente": "Africa", "superficie": "1 246 700 km²", "moneda": "Kwanza angoleño (AOA)", "paisesLimitrofes": "Congo, Namibia, República Democrática del Congo, Zambia", "idiomaOficial": "Portugués"},
+   
+    {"id" : 6, "pais": "Antigua y Bermuda", "capital": "Saint John", "img": "img/antiguaYbarbuda.png", "poblacion": "103 050", "continente": "América", "superficie": "442 km²", "moneda": "Dólar del Caribe Oriental (XCD)", "paisesLimitrofes": "", "idiomaOficial": "Inglés"},
+   
+    {"id" : 7, "pais": "Arabia Saudita", "capital": "Riad", "img": "img/ArabiaSaudita.png", "poblacion": "33 554 343", "continente": "Asia", "superficie": "2 149 680 km²", "moneda": "Riyal saudí (SAR)", "paisesLimitrofes": " Catar, Emiratos Árabes Unidos, Irak, Jordania, Kuwait, Omán, Yemen", "idiomaOficial": "Árabe"},
+    
+    {"id" : 8, "pais": "Argelia", "capital": "Argel", "img": "img/Algeria.png", "poblacion": "42 008 054", "continente": "Africa", "superficie": "2 381 740 km²", "moneda": "Dinar argelino (DZD)", "paisesLimitrofes": "Libia, Malí, Marruecos, Mauritania, Níger, Túnez", "idiomaOficial": "Lenguas bereberes, Árabe"},
+   
+    {"id" : 9, "pais": "Argentina", "capital": "Buenos Aires", "img": "img/Argentine.png", "poblacion": "44 688 864", "continente": "América", "superficie": "2 780 400 km²", "moneda": "Peso (ARS)", "paisesLimitrofes": "Bolivia, Brasil, Chile, Paraguay, Uruguay", "idiomaOficial": "Español"},
+   
+    {"id" : 10, "pais": "Armenia", "capital": "Ereván", "img": "img/Armenie.png", "poblacion": "2 934 152", "continente": "Asia", "superficie": "29 743 km²", "moneda": "Dram armenio (AMD)", "paisesLimitrofes": "Azerbaiyán, Georgia, Irán, Turquía", "idiomaOficial": "Armenio"},
+    
+    {"id" : 11, "pais": "Australia", "capital": "Canberra", "img": "img/Australie.png", "poblacion": "24 772 247", "continente": "Oceanía", "superficie": "7 692 060 km²", "moneda": "Dólar australiano (AUD)", "paisesLimitrofes": "", "idiomaOficial": "Inglés"},
+    
+    {"id" : 12, "pais": "Austria", "capital": "Viena", "img": "img/Autriche.png", "poblacion": "8 751 8201", "continente": "Europa", "superficie": "83 871 km²", "moneda": "Euro (EUR)", "paisesLimitrofes": " Alemania, Eslovaquia, Eslovenia, Hungría, Italia, Liechtenstein, República Checa, Suiza", "idiomaOficial": "Alemán"},
+   
+    {"id" : 13, "pais": "Azerbaiyán", "capital": "Bakú", "img": "img/Azerbaidjan.png", "poblacion": "9 923 914", "continente": "Asia", "superficie": "86 600 km²", "moneda": "Manat azerí (AZN)", "paisesLimitrofes": "Armenia, Georgia, Irán, Rusia, Turquía", "idiomaOficial": "Azerí"},
+   
+    {"id" : 14, "pais": "Bahamas", "capital": "Nasáu", "img": "img/Bahamas.png", "poblacion": "399 285", "continente": "América", "superficie": "13 943 km²", "moneda": "Dólar bahameño (BSD)", "paisesLimitrofes": "", "idiomaOficial": "Inglés"},
+    
+    {"id" : 15, "pais": "Bangladésh", "capital": "Daca", "img": "img/Bangladesh.png", "poblacion": "166 368 149", "continente": "Asia", "superficie": "143 998 km²", "moneda": "Taka bangladeshí (BDT)", "paisesLimitrofes": "Birmania, India", "idiomaOficial": "Bengalí"},
+   
+    {"id" : 16, "pais": "Barbados", "capital": "Bridgetown", "img": "img/Barbade.png", "poblacion": "286 388", "continente": "América", "superficie": "430 km²", "moneda": "Dólar de Barbados (BBD)", "paisesLimitrofes": "", "idiomaOficial": "Inglés"},
+   
+    {"id" : 17, "pais": "Baréin", "capital": "Manama", "img": "img/Bahrein.png", "poblacion": "1 566 993", "continente": "Asia", "superficie": "758 km²", "moneda": "Dinar bahreiní (BHD)", "paisesLimitrofes": "", "idiomaOficial": "Árabe"},
+   
+    {"id" : 18, "pais": "Bélgica", "capital": "Bruselas", "img": "img/Belgique.png", "poblacion": "11 498 519", "continente": "Europa", "superficie": "30 528 km²", "moneda": "Euro (EUR)", "paisesLimitrofes": "Alemania, Francia, Luxemburgo, Países Bajos", "idiomaOficial": "Alemán, Francés, Neerlandés"},
+   
+    {"id" : 19, "pais": "Belice", "capital": "Belmopán", "img": "img/Belize.png", "poblacion": "382 444", "continente": "América", "superficie": "22 966 km²", "moneda": "Dólar beliceño (BZD)", "paisesLimitrofes": "Guatemala, México", "idiomaOficial": "Inglés"},
+   
+    {"id" : 20, "pais": "Benín", "capital": "Porto-Novo", "img": "img/Benin.png", "poblacion": "11 485 674", "continente": "Africa", "superficie": "114 763 km²", "moneda": "Franco CFA de África Occidental (XOF)", "paisesLimitrofes": " Burkina Faso, Nigeria, Níger, Togo", "idiomaOficial": "Francés"},
+    
+    {"id" : 21, "pais": " Bielorrusia", "capital": "Minsk", "img": "img/Bielorussie.png", "poblacion": "9 452 113", "continente": "Europa", "superficie": "207 600 km²", "moneda": "Rublo bielorruso (BYN)", "paisesLimitrofes": "Letonia, Lituania, Polonia, Rusia, Ucrania", "idiomaOficial": "Bielorruso, Ruso"},
+   
+    {"id" : 22, "pais": " Birmania", "capital": "Naipyidó", "img": "img/Birmanie.png", "poblacion": "53 855 735", "continente": "Asia", "superficie": "676 578 km²", "moneda": "Kyat birmano (MMK)", "paisesLimitrofes": " Bangladés, China, India, Laos, Tailandia", "idiomaOficial": "Birmano"},
+   
+    {"id" : 23, "pais": "Bolivia", "capital": "Sucre", "img": "img/Bolivie.png", "poblacion": "11 215 674", "continente": "América", "superficie": "1 098 580 km²", "moneda": "Boliviano (BOB)", "paisesLimitrofes": " Argentina, Brasil, Chile, Paraguay, Perú", "idiomaOficial": "Español"},
+   
+    {"id" : 24, "pais": "Bosnia-Herzegovina", "capital": "Sarajevo", "img": "img/Bosnie-Herzegovine.png", "poblacion": "3 503 554", "continente": "Europa", "superficie": "51 197 km² Croacia, Montenegro, Serbia", "idiomaOficial": "Bosnio, Croata, Serbio"},
+   
+    {"id" : 25, "pais": "Botsuana", "capital": "Gaborone", "img": "img/Botswana.png", "poblacion": "2 333 201", "continente": "Africa", "superficie": "582 000 km²", "moneda": "Pula (BWP)", "paisesLimitrofes": " Namibia, Sudáfrica, Zambia, Zimbabue", "idiomaOficial": " Inglés, Tswana"},
+
+    {"id" : 26, "pais": "Brasil", "capital": "Brasilia", "img": "img/Bresil.png", "poblacion": "210 867 954", "continente": "América", "superficie": "8 514 880 km²", "moneda": "Real brasileño (BRL)", "paisesLimitrofes": "Argentina, Bolivia, Colombia, Guyana, Paraguay, Perú, Surinam, Uruguay, Venezuela", "idiomaOficial": "Portugués"},
+   
+    {"id" : 27, "pais": "Brunéi", "capital": "Bandar Seri Begawan", "img": "img/Brunei.png", "poblacion": "434 076", "continente": "Asia", "superficie": "5 765 km²", "moneda": "Dólar de Brunéi (BND)", "paisesLimitrofes": "Malasia", "idiomaOficial": "Malayo"},
+   
+    {"id" : 28, "pais": "Bulgaria", "capital": "Sofía", "img": "img/Bulgarie.png", "poblacion": "7 036 848", "continente": "Europa", "superficie": "110 879 km²", "moneda": "Lev búlgaro (BGN)", "paisesLimitrofes": "Grecia, Rumania, Serbia, Turquía", "idiomaOficial": "Búlgaro"},
+   
+    {"id" : 29, "pais": "Burkina Faso", "capital": "Uagadugú", "img": "img/Burkina_Faso.png", "poblacion": "19 751 651", "continente": "Africa", "superficie": "272 967 km²", "moneda": "Franco CFA de África Occidental (XOF)", "paisesLimitrofes": "Benín, Costa de Marfil, Ghana, Malí, Níger, Togo", "idiomaOficial": "Francés"},
+   
+    {"id" : 30, "pais": "Burundi", "capital": "Buyumbura", "img": "img/Burundi.png", "poblacion": "11 216 450", "continente": "Africa", "superficie": "27 834 km²", "moneda": "Franco de Burundi (BIF)", "paisesLimitrofes": "República Democrática del Congo, Ruanda, Tanzania", "idiomaOficial": " Francés, Kirundi"},
+   
+    {"id" : 31, "pais": "Bután", "capital": "Thimphu", "img": "img/Bouthan.png", "poblacion": "817 054", "continente": "Asia", "superficie": "38 394 km²", "moneda": "Ngultrum butanés (BTN)", "paisesLimitrofes": "China, India", "idiomaOficial": "Dzongkha"},
+   
+    {"id" : 32, "pais": "Cabo Verde", "capital": "Praia", "img": "img/Cap-Vert.png", "poblacion": "553 335", "continente": "Africa", "superficie": "4 033 km²", "moneda": "Escudo caboverdiano (CVE)", "paisesLimitrofes": "", "idiomaOficial": "Portugués"},
+   
+    {"id" : 33, "pais": "Camboya", "capital": "Nom Pen", "img": "img/Cambodge.png", "poblacion": "16 245 729", "continente": "Asia", "superficie": "181 035 km²", "moneda": "Riel camboyano (KHR)", "paisesLimitrofes": "Laos, Tailandia, Vietnam", "idiomaOficial": "Jemer"},
+   
+    {"id" : 34, "pais": "Camerún", "capital": "Yaundé", "img": "img/Cameroun.png", "poblacion": "24 678 234", "continente": "Africa", "superficie": "475 442 km²", "moneda": " Franco CFA de África Central (XAF)", "paisesLimitrofes": "Chad, Congo, Gabón, Guinea Ecuatorial, Nigeria, República Centroafricana", "idiomaOficial": "Francés, Inglés"},
+   
+    {"id" : 35, "pais": "Canadá", "capital": "Ottawa", "img": "img/Canada.png", "poblacion": "36 953 765", "continente": "América", "superficie": "9 984 670 km²", "moneda": "Dólar canadiense (CAD)", "paisesLimitrofes": "Estados Unidos", "idiomaOficial": "Francés, Inglés"},
+   
+    {"id" : 36, "pais": "Catar", "capital": "Doha", "img": "img/Qatar.png", "poblacion": "2 694 849", "continente": "Asia", "superficie": "11 586 km²", "moneda": "Riyal qatarí (QAR)", "paisesLimitrofes": "Arabia Saudita", "idiomaOficial": "Árabe"},
+   
+    {"id" : 37, "pais": "Chad", "capital": "Yamena", "img": "img/Tchad.png", "poblacion": "15 353 184", "continente": "Africa", "superficie": "1 284 000 km²", "moneda": "Franco CFA de África Central (XAF)", "paisesLimitrofes": "Camerún, Libia, Nigeria, Níger, República Centroafricana, Sudán", "idiomaOficial": "Francés, Árabe"},
+   
+    {"id" : 38, "pais": "Chile", "capital": "Santiago", "img": "img/Chili.png", "poblacion": "18 197 209", "continente": "América", "superficie": "756 102 km²", "moneda": "Peso chileno (CLP)", "paisesLimitrofes": "Argentina, Bolivia, Perú", "idiomaOficial": "Español"},
+   
+    {"id" : 39, "pais": "China", "capital": "Pekín", "img": "img/Chine.png", "poblacion": "1 415 045 928", "continente": "Asia", "superficie": "9 598 000 km²", "moneda": " Yuan chino (CNY)", "paisesLimitrofes": " Afganistán, Birmania, Bután, Corea del Norte, India, Kazajistán, Kirguistán, Laos, Mongolia, Nepal, Pakistán, Rusia, Tayikistán, Vietnam", "idiomaOficial": "Chino mandarín"},
+   
+    {"id" : 40, "pais": "Chipre", "capital": "Nicosia", "img": "img/Chypre.png", "poblacion": "1 189 085", "continente": "Europa", "superficie": "9 251 km²", "moneda": "Euro (EUR)", "paisesLimitrofes": "", "idiomaOficial": "Griego, Turco"},
+   
+    {"id" : 41, "pais": "Colombia", "capital": "Bogotá", "img": "img/Colombie.png", "poblacion": "51.609.000", "continente": "América", "superficie": "1 141 748 km²", "moneda": "peso colombiano (COP)", "paisesLimitrofes": "Brasil, Ecuador, Panamá, Perú, Venezuela.", "idiomaOficial": "Español"},
+   
+    {"id" : 42, "pais": "Comoras", "capital": "Moroni", "img": "img/Comores.png", "poblacion": "832 347", "continente": "Africa", "superficie": "2 170 km²", "moneda": "Franco comorano (KMF)", "paisesLimitrofes": "", "idiomaOficial": "Comorense, Francés, Árabe"},
+   
+    {"id" : 43, "pais": "Congo", "capital": "Brazzaville", "img": "img/Congo.png", "poblacion": "5 399 895", "continente": "Africa", "superficie": "342 000 km²", "moneda": "Franco CFA de África Central (XAF)", "paisesLimitrofes": "Angola, Camerún, Gabón, República Centroafricana, República Democrática del Congo", "idiomaOficial": "Francés"},
+   
+    {"id" : 44, "pais": " Corea del Norte", "capital": "Pionyang", "img": "img/Coree_du_Nord.png", "poblacion": "25 610 672", "continente": "Asia", "superficie": "120 538 km²", "moneda": "Won norcoreano (KPW)", "paisesLimitrofes": "China, Corea del Sur, Rusia", "idiomaOficial": "Coreano"},
+   
+    {"id" : 45, "pais": "Corea del Sur", "capital": "Seúl", "img": "img/Coree_du_Sud.png", "poblacion": "51 164 435", "continente": "Asia", "superficie": "99 828 km²", "moneda": "Won surcoreano (KRW)", "paisesLimitrofes": "Corea del Norte", "idiomaOficial": "Coreano"},
+   
+    {"id" : 46, "pais": "Costa de Marfil", "capital": "Yamusukro", "img": "img/Cote_d_Ivoire.png", "poblacion": "24 905 843", "continente": "Africa", "superficie": "322 463 km²", "moneda": "Franco CFA de África Occidental (XOF)", "paisesLimitrofes": "Burkina Faso, Ghana, Guinea, Liberia, Malí", "idiomaOficial": "Francés"},
+   
+    {"id" : 47, "pais": "Costa Rica", "capital": "San José", "img": "img/Costa_Rica.png", "poblacion": "4 953 199", "continente": "América", "superficie": "51 100 km²", "moneda": "Colón costarricense (CRC)", "paisesLimitrofes": " Nicaragua, Panamá", "idiomaOficial": "Español"},
+   
+    {"id" : 48, "pais": "Croacia", "capital": "Zagreb", "img": "img/Croatie.png", "poblacion": "4 164 783", "continente": "Europa", "superficie": "56 594 km²", "moneda": "Euro (EUR)", "paisesLimitrofes": "Bosnia-Herzegovina, Eslovenia, Hungría, Montenegro, Serbia", "idiomaOficial": "Croata"},
+   
+    {"id" : 49, "pais": "Cuba", "capital": "La Habana", "img": "img/Cuba.png", "poblacion": "11 489 082", "continente": "América", "superficie": "109 886 km²", "moneda": "Peso cubano (CUP)", "paisesLimitrofes": "Golfo de México, Mar Caribe, Océano Atlántico", "idiomaOficial": "Español"},
+   
+    {"id" : 50, "pais": "Dinamarca", "capital": "Copenhague", "img": "img/Danemark.png", "poblacion": "5 754 356", "continente": "Europa","superficie": "43 098 km²", "moneda": "Corona danesa (DKK)", "paisesLimitrofes": "Alemania, Suecia", "idiomaOficial": "Danés"},
+   
+    {"id" : 51, "pais": "Dominica", "capital": "Roseau", "img": "img/Dominique.png", "poblacion": "74 308", "continente": "América", "superficie": "751 km²", "moneda": "Dólar del Caribe Oriental (XCD)", "paisesLimitrofes": "", "idiomaOficial": "Inglés"},
+   
+    {"id" : 52, "pais": "Ecuador", "capital": "Quito", "img": "img/Equateur.png", "poblacion": "16 863 425", "continente": "América", "superficie": "256 369 km", "moneda": "Dólar estadounidense (USD)", "paisesLimitrofes": "Colombia, Perú", "idiomaOficial": "Español, Kichwa, Shuar"},
+   
+    {"id" : 53, "pais": "Egipto", "capital": "El Cairo", "img": "img/Egypte.png", "poblacion": "99 375 741", "continente": "Africa", "superficie": "1 002 450 km²", "moneda": "Libra egipcia (EGP)", "paisesLimitrofes": "Israel, Libia, Palestina, Sudán", "idiomaOficial": "Árabe"},
+   
+    {"id" : 54, "pais": "El Salvador", "capital": "San Salvador", "img": "img/Salvador.png", "poblacion": "6 411 558", "continente": "América", "superficie": "21 041 km²", "moneda": "Dólar estadounidense (USD)", "paisesLimitrofes": "Guatemala, Honduras", "idiomaOficial": "Español"},
+   
+    {"id" : 55, "pais": "Emiratos Árabes Unidos", "capital": "Abu Dabi", "img": "img/Emirats_Arabes_Unis.png", "poblacion": "9 541 615", "continente": "Asia", "superficie": "83 600 km²", "moneda": "Dirham de los Emiratos Árabes Unidos (AED)", "paisesLimitrofes": "Arabia Saudita, Omán", "idiomaOficial": "Árabe"},
+   
+    {"id" : 56, "pais": "Eritrea", "capital": "Asmara", "img": "img/Erythree.png", "poblacion": "5 187 948", "continente": "Africa", "superficie": "117 600 km²", "moneda": "Nakfa (ERN)", "paisesLimitrofes": "Etiopía, Sudán, Yibuti", "idiomaOficial": "Inglés, Tigriña, Árabe"},
+   
+    {"id" : 57, "pais": "Eslovaquia", "capital": "Bratislava", "img": "img/Slovaquie.png", "poblacion": "5 449 816", "continente": "Europa", "superficie": "49 037 km²", "moneda": "Euro (EUR)", "paisesLimitrofes": "Austria, Hungría, Polonia, República Checa, Ucrania", "idiomaOficial": "Eslovaco"},
+   
+    {"id" : 58, "pais": "Eslovenia", "capital": "Liubliana", "img": "img/Slovenie.png", "poblacion": "2 081 260", "continente": "Europa", "superficie": "20 273 km²", "moneda": "Euro (EUR)", "paisesLimitrofes": "Austria, Croacia, Hungría, Italia", "idiomaOficial": "Esloveno"},
+   
+    {"id" : 59, "pais": "España", "capital": "Madrid", "img": "img/Espagne.png", "poblacion": "46 397 452", "continente": "Europa", "superficie": "505 992 km²", "moneda": "Euro (EUR)", "paisesLimitrofes": "Andorra, Francia, Marruecos, Portugal", "idiomaOficial": "Español"},
+   
+    {"id" : 60, "pais": "Estados Unidos", "capital": "Washington D. C.", "img": "img/Etats-Unis.png", "poblacion": "326 766 748", "continente": "Africa", "superficie": "9 371 180 km²", "moneda": "Dólar estadounidense (USD)", "paisesLimitrofes": "Canadá, México", "idiomaOficial": "Inglés"},
+   
+    {"id" : 61, "pais": "Estonia", "capital": "Tallin", "img": "img/Estonie.png", "poblacion": "1 306 788", "continente": "Europa", "superficie": "45 227 km²", "moneda": "Euro (EUR)", "paisesLimitrofes": "Letonia, Rusia", "idiomaOficial": "Estonio"},
+   
+    {"id" : 62, "pais": "Esuatini", "capital": "Mbabane", "img": "img/Swaziland.png", "poblacion": "1 391 385", "continente": "Africa", "superficie": "17 364 km²", "moneda": "Lilangeni (SZL)", "paisesLimitrofes": "Mozambique, Sudáfrica", "idiomaOficial": "Inglés, Suazi"},
+   
+    {"id" : 63, "pais": "Etiopía", "capital": "Adís Abeba", "img": "img/Ethiopie.png", "poblacion": "107 534 882", "continente": "Africa", "superficie": "1 104 300 km²", "moneda": "Birr etíope (ETB)", "paisesLimitrofes": "Eritrea, Kenia, Somalia, Sudán, Sudán del Sur, Yibuti", "idiomaOficial": "amhárico"},
+   
+    {"id" : 64, "pais": "Filipinas", "capital": "Manila", "img": "img/Philippines.png", "poblacion": "106 512 074", "continente": "Asia", "superficie": "300 000 km²", "moneda": "Peso filipino (PHP)", "paisesLimitrofes": "", "idiomaOficial": "Filipino, Inglés"},
+   
+    {"id" : 65, "pais": "Finlandia", "capital": "Helsinki", "img": "img/Finlande.png", "poblacion": "5 542 517", "continente": "Europa", "superficie": "338 424 km²", "moneda": "Euro (EUR)", "paisesLimitrofes": "Noruega, Rusia, Suecia", "idiomaOficial": "Finés, Sueco"},
+   
+    {"id" : 66, "pais": "Fiyi", "capital": "Suva", "img": "img/Fidji.png", "poblacion": "912 241", "continente": "Oceanía", "superficie": "18 272 km²", "moneda": "Dólar fiyiano (FJD)", "paisesLimitrofes": "", "idiomaOficial": "Fiyiano, Indostánico, Inglés"},
+   
+    {"id" : 67, "pais": "Francia", "capital": "París", "img": "img/France.png", "poblacion": "65 233 271", "continente": "Europa", "superficie": "640 597 km²", "moneda": "Euro (EUR)", "paisesLimitrofes": " Alemania, Andorra, Bélgica, España, Italia, Luxemburgo, Mónaco, Suiza", "idiomaOficial": "Frances"},
+   
+    {"id" : 68, "pais": "Gabón", "capital": "Libreville", "img": "img/Gabon.png", "poblacion": "2 067 561", "continente": "Africa", "superficie": "267 668 km²", "moneda": "Franco CFA de África Central (XAF)", "paisesLimitrofes": "Camerún, Congo, Guinea Ecuatorial", "idiomaOficial": "Francés"},
+   
+    {"id" : 69, "pais": "Gambia", "capital": "Banjul", "img": "img/Gambie.png", "poblacion": "2 163 765", "continente": "Africa", "superficie": "11 295 km²", "moneda": "Dalasi (GMD)", "paisesLimitrofes": "Senegal", "idiomaOficial": "Inglés"},
+   
+    {"id" : 70, "pais": "Georgia", "capital": "Tiflis", "img": "img/Georgie.png", "poblacion": "3 907 131", "continente": "Asia", "superficie": "69 700 km²", "moneda": "Lari georgiano (GEL)", "paisesLimitrofes": "Armenia, Azerbaiyán, Rusia, Turquía", "idiomaOficial": "Georgiano"},
+   
+    {"id" : 71, "pais": "Ghana", "capital": "Accra", "img": "img/Ghana.png", "poblacion": "29 463 643", "continente": "Africa", "superficie": "238 533 km²", "moneda": "Cedi (GHS)", "paisesLimitrofes": " Burkina Faso, Costa de Marfil, Togo", "idiomaOficial": "Inglés"},
+   
+    {"id" : 72, "pais": "Granada", "capital": "Saint George", "img": "img/Grenade.png", "poblacion": "108 339", "continente": "América", "superficie": "344 km²", "moneda": "Dólar del Caribe Oriental (XCD)", "paisesLimitrofes": "", "idiomaOficial": "Inglés"},
+   
+    {"id" : 73, "pais": "Grecia", "capital": "Atenas", "img": "img/Grece.png", "poblacion": "11 142 161", "continente": "Europa", "superficie": "131 957 km²", "moneda": "Euro (EUR)", "paisesLimitrofes": "Albania, Bulgaria, Turquía", "idiomaOficial": "Griego"},
+   
+    {"id" : 74, "pais": "Guatemala", "capital": "Guatemala", "img": "img/Guatemala.png", "poblacion": "17 245 346", "continente": "Africa", "superficie": "108 889 km²", "moneda": "Quetzal guatemalteco (GTQ)", "paisesLimitrofes": "Belice, El Salvador, Honduras, México", "idiomaOficial": "Español"},
+
+    {"id" : 75, "pais": "Guinea", "capital": "Conakri", "img": "img/Guinee.png", "poblacion": "13 052 608", "continente": "Africa", "superficie": "245 857 km²", "moneda": "Franco guineano (GNF)", "paisesLimitrofes": "Costa de Marfil, Guinea-Bisáu, Liberia, Malí, Senegal, Sierra Leona", "idiomaOficial": "Francés"},
+   
+    {"id" : 76, "pais": "Guinea Ecuatorial", "capital": "Malabo", "img": "img/Guinee_Equatoriale.png", "poblacion": "1 313 894", "continente": "Africa", "superficie": "28 051 km²", "moneda": "Franco CFA de África Central (XAF)", "paisesLimitrofes": "Camerún, Gabón", "idiomaOficial": "Español, Francés, Portugués"},
+   
+    {"id" : 77, "pais": "Guinea-Bisáu", "capital": "Bisáu", "img": "img/Guinee_Bissau.png", "poblacion": "1 907 268", "continente": "Africa", "superficie": "36 125 km²", "moneda": "Franco CFA de África Occidental (XOF)", "paisesLimitrofes": "Guinea, Senegal", "idiomaOficial": "Portugués"},
+   
+    {"id" : 78, "pais": "Guyana", "capital": "Georgetown", "img": "img/Guyana.png", "poblacion": "782 225", "continente": "América", "superficie": "214 969 km²", "moneda": "Dólar guyanés (GYD)", "paisesLimitrofes": "Brasil, Surinam, Venezuela", "idiomaOficial": "Inglés"},
+   
+    {"id" : 79, "pais": "Haití", "capital": "Puerto Príncipe", "img": "img/Haiti.png", "poblacion": "11 112 945", "continente": "América", "superficie": "27 750 km²", "moneda": "Gourde haitiano (HTG)", "paisesLimitrofes": "República Dominicana", "idiomaOficial": "Criollo haitiano, Francés"},
+   
+    {"id" : 80, "pais": "Honduras", "capital": "Tegucigalpa", "img": "img/Honduras.png", "poblacion": "9 417 167", "continente": "América", "superficie": "112 492 km²", "moneda": "Lempira hondureño (HNL)", "paisesLimitrofes": "El Salvador, Guatemala, Nicaragua", "idiomaOficial": "Español"},
+   
+    {"id" : 81, "pais": "Hundría", "capital": "Budapest", "img": "img/Hongrie.png", "poblacion": "9 688 847", "continente": "Europa", "superficie": "93 028 km²", "moneda": "Forinto húngaro (HUF)", "paisesLimitrofes": "Austria, Croacia, Eslovaquia, Eslovenia, Rumania, Serbia, Ucrania", "idiomaOficial": "Húngaro"},
+   
+    {"id" : 82, "pais": "India", "capital": "Nueva Delhi", "img": "img/Inde.png", "poblacion": "1 354 051 854", "continente": "Asia", "superficie": "3 287 260 km²", "moneda": "Rupia india (INR)", "paisesLimitrofes": "Bangladés, Birmania, Bután, China, Nepal, Pakistán", "idiomaOficial": "Hindi, Inglés"},
+   
+    {"id" : 83, "pais": "Indonesia", "capital": "Yakarta", "img": "img/Indonesie.png", "poblacion": "266 794 980", "continente": "Asia", "superficie": "1 910 930 km²", "moneda": "Rupia indonesia (IDR)", "paisesLimitrofes": "Malasia, Papúa Nueva Guinea, Timor Oriental", "idiomaOficial": "Indonesio"},
+   
+    {"id" : 84, "pais": "Inglaterra", "capital": "Londres", "img": "img/Inglaterra.png", "poblacion": "66 573 504", "continente": "Europa", "superficie": "242 900 km²", "moneda": "Libra británica (GBP)", "paisesLimitrofes": "Irlanda", "idiomaOficial": "Inglés"},
+    
+    {"id" : 85, "pais": "Irak", "capital": "Bagdad", "img": "img/Irak.png", "poblacion": "39 339 753", "continente": "Asia", "superficie": "435 244 km²", "moneda": "Dinar iraquí (IQD)", "paisesLimitrofes": " Arabia Saudita, Irán, Jordania, Kuwait, Siria, Turquía", "idiomaOficial": "Kurdo, Árabe"},
+   
+    {"id" : 86, "pais": "Iran", "capital": "Teherán", "img": "img/Iran.png", "poblacion": "82 011 735", "continente": "Asia", "superficie": "1 648 200 km²", "moneda": "Rial iraní (IRR)", "paisesLimitrofes": "Afganistán, Armenia, Azerbaiyán, Irak, Pakistán, Turkmenistán, Turquía", "idiomaOficial": "Persa"},
+   
+    {"id" : 87, "pais": "Irlanda", "capital": "Dublín", "img": "img/Irlande.png", "poblacion": "4 803 748", "continente": "Europa", "superficie": "70 273 km²", "moneda": "Euro (EUR)", "paisesLimitrofes": "Reino Unido", "idiomaOficial": "Inglés, Irlandés"},
+   
+    {"id" : 88, "pais": "Islandia", "capital": "Reikiavik", "img": "img/Islande.png", "poblacion": "337 780", "continente": "Europa", "superficie": "103 000 km²", "moneda": "Corona islandes (ISK)", "paisesLimitrofes": "", "idiomaOficial": "Islandés"},
+   
+    {"id" : 89, "pais": "Islas Marshall", "capital": "Majuro", "img": "img/Marshall.png", "poblacion": "53 167", "continente": "Oceanía", "superficie": "181 km²", "moneda": "Dólar estadounidense (USD)", "paisesLimitrofes": "", "idiomaOficial": "Inglés, Marshalés"},
+   
+    {"id" : 90, "pais": "Islas Salomón", "capital": "Honiara", "img": "img/Salomon.png", "poblacion": "623 281", "continente": "Oceanía", "superficie": "28 896 km²", "moneda": "Dólar de las Islas Salomón (SBD)", "idiomaOficial": "Inglés"},
+   
+    {"id" : 91, "pais": "Israel", "capital": "Jerusalén", "img": "img/Israel.png", "poblacion": "8 452 841", "continente": "Asia", "superficie": "22 072 km²", "moneda": "Nuevo shéquel (ILS)", "paisesLimitrofes": "Egipto, Jordania, Líbano, Palestina, Siria", "idiomaOficial": "Hebreo, Árabe"},
+   
+    {"id" : 92, "pais": "Italia", "capital": "Roma", "img": "img/Italie.png", "poblacion": "59 290 969", "continente": "Europa", "superficie": "301 336 km²", "moneda": "Euro (EUR)", "paisesLimitrofes": " Austria, Eslovenia, Francia, San Marino, Suiza, Vaticano", "idiomaOficial": "Italiano"},
+   
+    {"id" : 93, "pais": "Jamaica", "capital": "Kingston", "img": "img/Jamaique.png", "poblacion": "2 898 677", "continente": "América", "superficie": "10 991 km²", "moneda": "Dólar jamaiquino (JMD)", "paisesLimitrofes": "", "idiomaOficial": "Inglés"},
+   
+    {"id" : 94, "pais": "Japón", "capital": "Tokio", "img": "img/Japon.png", "poblacion": "127 185 332", "continente": "Asia", "superficie": "377 930 km²", "moneda": "Yen (JPY)", "paisesLimitrofes": "", "idiomaOficial": "Japones"},
+   
+    {"id" : 95, "pais": "Jordania", "capital": "Amán", "img": "img/Jordanie.png", "poblacion": "9 903 802", "continente": "Asia", "superficie": "89 342 km²", "moneda": "Dinar jordano (JOD)", "paisesLimitrofes": " Arabia Saudita, Irak, Israel, Palestina, Siria", "idiomaOficial": "Árabe"},
+   
+    {"id" : 96, "pais": "Kazajistán", "capital": "Astaná", "img": "img/Kazakhstan.png", "poblacion": "18 403 860", "continente": "Asia", "superficie": "2 724 910 km²", "moneda": "Tenge kazajo (KZT)", "paisesLimitrofes": "China, Kirguistán, Rusia, Turkmenistán, Uzbekistá", "idiomaOficial": ""},
+   
+    {"id" : 97, "pais": "Kenia", "capital": "Nairobi", "img": "img/Kenya.png", "poblacion": "50 950 879", "continente": "Africa", "superficie": "580 367 km²", "moneda": "Chelín keniano (KES)", "paisesLimitrofes": "Etiopía, Somalia, Sudán del Sur, Tanzania, Uganda", "idiomaOficial": "Inglés, Suajili"},
+   
+    {"id" : 98, "pais": "Kirguistán", "capital": "Biskek", "img": "img/Kirghizistan.png", "poblacion": "6 132 932", "continente": "Asia", "superficie": "199 951 km", "moneda": "Som kirguís (KGS", "paisesLimitrofes": "China, Kazajistán, Tayikistán, Uzbekistán", "idiomaOficial": "Kirguís, Ruso"},
+   
+    {"id" : 99, "pais": "Kiribati", "capital": "Tarawa", "img": "img/Kiribati.png", "poblacion": "118 414", "continente": "Oceanía", "superficie": "726 km²", "moneda": "Dólar australiano (AUD)", "paisesLimitrofes": "", "idiomaOficial": "Gilbertés, Inglés"},
+   
+    {"id" : 100, "pais": "Kosovo", "capital": "Pristina", "img": "img/Kosovo.png", "poblacion": "1 797 151", "continente": "Europa", "superficie": "10 887 km²", "moneda": "Euro (EUR)", "paisesLimitrofes": "Albania, Montenegro, Serbia", "idiomaOficial": "Albanés, Serbio"},
+   
+    {"id" : 101, "pais": "Kuwait", "capital": "Kuwait City", "img": "img/Koweit.png", "poblacion": "4 197 128", "continente": "Asia", "superficie": "17 818 km²", "moneda": "Dinar kuwaití (KWD)", "paisesLimitrofes": " Arabia Saudita, Irak", "idiomaOficial": "Árabe"},
+   
+    {"id" : 102, "pais": "Laos", "capital": "Vientián", "img": "img/Laos.png", "poblacion": "6 961 210", "continente": "Asia", "superficie": "", "moneda": "Kip laosiano (LAK)", "paisesLimitrofes": " Birmania, Camboya, China, Tailandia, Vietnam", "idiomaOficial": "Lao"},
+   
+    {"id" : 103, "pais": "Lesoto", "capital": "Maseru", "img": "img/Lesotho.png", "poblacion": "2 263 010", "continente": "Africa", "superficie": "30 355 km²", "moneda": "Loti (LSL)", "paisesLimitrofes": "Sudáfrica", "idiomaOficial": "Inglés, Sesotho"},
+   
+    {"id" : 104, "pais": "Letonia", "capital": "Riga", "img": "img/Lettonie.png", "poblacion": "1 929 938", "continente": "Europa", "superficie": "64 559 km²", "moneda": "Euro (EUR)", "paisesLimitrofes": "Bielorrusia, Estonia, Lituania, Rusia", "idiomaOficial": "Letón"},
+   
+    {"id" : 105, "pais": "Líbano", "capital": "Beirut", "img": "img/Liban.png", "poblacion": "6 093 509", "continente": "Asia", "superficie": "10 452 km²", "moneda": "Libra libanesa (LBP)", "paisesLimitrofes": "Israel, Siria", "idiomaOficial": "Árabe"},
+   
+    {"id" : 106, "pais": "Liberia", "capital": "Monrovia", "img": "img/Liberia.png", "poblacion": "4 853 516", "continente": "Africa", "superficie": "111 369 km²", "moneda": "Dólar liberiano (LRD)", "paisesLimitrofes": "Costa de Marfil, Guinea, Sierra Leona", "idiomaOficial": "Inglés"},
+   
+    {"id" : 107, "pais": "Libia", "capital": "Trípoli", "img": "img/Libye.png", "poblacion": "6 470 956", "continente": "Africa", "superficie": "1 759 540 km", "moneda": "Dinar libio (LYD)", "paisesLimitrofes": "Argelia, Chad, Egipto, Níger, Sudán, Túnez", "idiomaOficial": "Árabe"},
+   
+    {"id" : 108, "pais": "Liechtenstein", "capital": "Vaduz", "img": "img/Liechtenstein.png", "poblacion": "38 155", "continente": "Europa", "superficie": "160 km²", "moneda": "Franco suizo (CHF)", "paisesLimitrofes": "Austria, Suiza", "idiomaOficial": "Alemán"},
+   
+    {"id" : 109, "pais": "Lituania", "capital": "Vilna", "img": "img/Lituanie.png", "poblacion": "2 876 475", "continente": "Europa", "superficie": "65 300 km²", "moneda": "Euro (EUR)", "paisesLimitrofes": "Bielorrusia, Letonia, Polonia, Rusia", "idiomaOficial": "Lituano"},
+   
+    {"id" : 110, "pais": "Luxemburgo", "capital": "Luxemburgo", "img": "img/Luxembourg.png", "poblacion": "590 321", "continente": "Europa", "superficie": "2 586 km²", "moneda": "Euro (EUR)", "paisesLimitrofes": "Alemania, Bélgica, Francia", "idiomaOficial": "Alemán, Francés, Luxemburgués"},
+   
+    {"id" : 111, "pais": "Macedonia Del Norte", "capital": "Skopie", "img": "img/Macedoine.png", "poblacion": "2 085 051", "continente": "Europa", "superficie": "25 713 km²", "moneda": "Denar macedonio (MKD)", "paisesLimitrofes": "Albania, Bulgaria, Grecia, Kosovo, Serbia", "idiomaOficial": "Macedonio"},
+   
+    {"id" : 112, "pais": "Madagascar", "capital": "Antananarivo", "img": "img/Madagascar.png", "poblacion": "26 262 810", "continente": "Africa", "superficie": "587 041 km²", "moneda": "Ariary malgache (MGA)", "paisesLimitrofes": "", "idiomaOficial": "Francés, Malgache"},
+
+    {"id" : 113, "pais": "Malasia", "capital": "Kuala Lumpur", "img": "img/Malaisie.png", "poblacion": "32 042 458", "continente": "Asia", "superficie": "330 803 km²", "moneda": "Ringgit malayo (MYR)", "paisesLimitrofes": "Brunéi, Indonesia, Singapur, Tailandia", "idiomaOficial": "Malayo"},
+   
+    {"id" : 114, "pais": "Malaui", "capital": "Lilongüe", "img": "img/Malawi.png", "poblacion": "19 164 728", "continente": "Africa", "superficie": "118 484 km²", "moneda": "Kwacha malauí (MWK)", "paisesLimitrofes": "Mozambique, Tanzania, Zambia", "idiomaOficial": "Chichewa, Inglés"},
+    
+    {"id" : 115, "pais": "Maldivas", "capital": "Malé", "img": "img/Maldives.png", "poblacion": "444 259", "continente": "Asia", "superficie": "300 km²", "moneda": "Rupia de Maldivas (MVR)", "paisesLimitrofes": "", "idiomaOficial": "Maldivo"},
+   
+    {"id" : 116, "pais": "Malí", "capital": "Bamako", "img": "img/Mali.png", "poblacion": "19 107 706", "continente": "Africa", "superficie": "1 241 240 km²", "moneda": "Franco CFA de África Occidental (XOF)", "paisesLimitrofes": "Argelia, Burkina Faso, Costa de Marfil, Guinea, Mauritania, Níger, Senegal", "idiomaOficial": "Francés"},
+   
+    {"id" : 117, "pais": "Malta", "capital": "La Valeta", "img": "img/Malte.png", "poblacion": "432 089", "continente": "Europa", "superficie": "316 km²", "moneda": "Euro (EUR)", "paisesLimitrofes": "", "idiomaOficial": "Inglés, Maltés"},
+   
+    {"id" : 118, "pais": "Marruecos", "capital": "Rabat", "img": "img/Maroc.png", "poblacion": "36 191 805", "continente": "Africa", "superficie": "446 550 km²", "moneda": "Dirham marroquí (MAD)", "paisesLimitrofes": "Argelia, España", "idiomaOficial": "Lenguas bereberes, Árabe"},
+   
+    {"id" : 119, "pais": "Mauricio", "capital": "Port Louis", "img": "img/Maurice.png", "poblacion": "1 268 315", "continente": "Africa", "superficie": "2 040 km²", "moneda": "Rupia de Mauricio (MUR)", "paisesLimitrofes": "", "idiomaOficial": "Inglés"},
+   
+    {"id" : 120, "pais": "Mauritania", "capital": "Nuakchot", "img": "img/Mauritanie.png", "poblacion": "4 540 068", "continente": "Africa", "superficie": "1 025 520 km²", "moneda": "Uguiya (MRO)", "paisesLimitrofes": "Argelia, Malí, Senegal", "idiomaOficial": "Árabe"},
+   
+    {"id" : 121, "pais": "México", "capital": "Ciudad de Mexico", "img": "img/Mexique.png", "poblacion": "130 759 074", "continente": "América", "superficie": "1 964 380 km²", "moneda": "Peso mexicano (MXN)", "paisesLimitrofes": "Belice, Estados Unidos, Guatemala", "idiomaOficial": "Español"},
+   
+    {"id" : 122, "pais": "Micronesia", "capital": "Palikir", "img": "img/Micronesie.png", "poblacion": "531 996", "continente": "Oceanía", "superficie": "702 km²", "moneda": "Dólar estadounidense (USD)", "paisesLimitrofes": "", "idiomaOficial": "Inglés"},
+   
+    {"id" : 123, "pais": "Moldavia", "capital": "Chisináu", "img": "img/Moldavie.png", "poblacion": "4 041 065", "continente": "Europa", "superficie": "33 846 km²", "moneda": "Leu moldavo (MDL)", "paisesLimitrofes": "Rumania, Ucrania", "idiomaOficial": "Rumano"},
+    
+    {"id" : 124, "pais": "Mónaco", "capital": "Mónaco", "img": "img/Monaco.png", "poblacion": "38 897", "continente": "Europa", "superficie": "2 km²", "moneda": "Euro (EUR)", "paisesLimitrofes": "Francia", "idiomaOficial": "Francés"},
+   
+    {"id" : 125, "pais": "Mongolia", "capital": "Ulán Bator", "img": "img/Mongolie.png", "poblacion": "3 121 772", "continente": "Asia", "superficie": "1 564 100 km²", "moneda": "Tugrik mongol (MNT)", "paisesLimitrofes": "China, Rusia", "idiomaOficial": "Mongol"},
+   
+    {"id" : 126, "pais": "Montenegro", "capital": "Podgorica", "img": "img/Montenegro.png", "poblacion": "629 219", "continente": "Europa", "superficie": "13 812 km²", "moneda": "Euro (EUR)", "paisesLimitrofes": "Albania, Bosnia-Herzegovina, Croacia, Kosovo, Serbia", "idiomaOficial": "Montenegrino"},
+   
+    {"id" : 127, "pais": "Mozambique", "capital": "Maputo", "img": "img/Mozambique.png", "poblacion": "30 528 673", "continente": "Africa", "superficie": "801 590 km²", "moneda": "Metical mozambiqueño (MZN)", "paisesLimitrofes": "Malaui, Sudáfrica, Tanzania, Zambia, Zimbabue", "idiomaOficial": "Portugués"},
+   
+    {"id" : 128, "pais": "Namibia", "capital": "Windhoek", "img": "img/Namibie.png", "poblacion": "2 587 801", "continente": "Africa", "superficie": "824 268 km²", "moneda": "Dólar namibio (NAD)", "paisesLimitrofes": "Angola, Botsuana, Sudáfrica, Zambia", "idiomaOficial": "Inglés"},
+   
+    {"id" : 129, "pais": "Nauru", "capital": "Yaren", "img": "img/Nauru.png", "poblacion": "11 312", "continente": "Oceanía", "superficie": "21 km²", "moneda": "Dólar australiano (AUD)", "paisesLimitrofes": "", "idiomaOficial": "Inglés, Nauruano"},
+   
+    {"id" : 130, "pais": "Nepal", "capital": "Katmandú", "img": "img/Nepal.png", "poblacion": "29 624 035", "continente": "Asia", "superficie": "147 181 km²", "moneda": "Rupia nepalí (NPR)", "paisesLimitrofes": "China, India", "idiomaOficial": "Nepalí"},
+   
+    {"id" : 131, "pais": "Nicaragua", "capital": "Managua", "img": "img/Nicaragua.png", "poblacion": "6 284 757", "continente": "América", "superficie": "130 373 km²", "moneda": "Córdoba nicaragüense (NIO)", "paisesLimitrofes": "Costa Rica, Honduras", "idiomaOficial": "Español"},
+   
+    {"id" : 132, "pais": "Níger", "capital": "Niamey", "img": "img/Niger.png", "poblacion": "22 311 375", "continente": "Africa", "superficie": "1 267 000 km²", "moneda": "Franco CFA de África Occidental (XOF)", "paisesLimitrofes": "Argelia, Benín, Burkina Faso, Chad, Libia, Malí, Nigeria", "idiomaOficial": "Francés"},
+   
+    {"id" : 133, "pais": "Nigeria", "capital": "Abuya", "img": "img/Nigeria.png", "poblacion": "195 875 237", "continente": "Africa", "superficie": "923 768 km²", "moneda": "Naira (NGN)", "paisesLimitrofes": "Benín, Camerún, Chad, Níger", "idiomaOficial": "Inglés"},
+   
+    {"id" : 134, "pais": "Noruega", "capital": "Oslo", "img": "img/Norvege.png", "poblacion": "5 353 363", "continente": "Europa", "superficie": "323 782 km²", "moneda": "Corona noruega (NOK)", "paisesLimitrofes": "Finlandia, Rusia, Suecia", "idiomaOficial": "Noruego"},
+   
+    {"id" : 135, "pais": "Nueva Zelanda", "capital": "Wellington", "img": "img/Nouvelle-Zelande.png", "poblacion": "4 749 598", "continente": "Oceanía", "superficie": "270 469 km²", "moneda": "Dólar neozelandés (NZD)", "paisesLimitrofes": "", "idiomaOficial": "Inglés, Lengua de señas de Nueva Zelanda, Maorí"},
+   
+    {"id" : 136, "pais": "Omán", "capital": "Mascate", "img": "img/Oman.png", "poblacion": "4 829 946", "continente": "Asia", "superficie": "309 500 km²", "moneda": "Rial omaní (OMR)", "paisesLimitrofes": "Arabia Saudita, Emiratos Árabes Unidos, Yemen", "idiomaOficial": "Árabe"},
+   
+    {"id" : 137, "pais": "Países Bajos", "capital": "Ámsterdam", "img": "img/Pays-Bas.png", "poblacion": "17 084 459", "continente": "Europa", "superficie": "41 540 km²", "moneda": "Euro (EUR)", "paisesLimitrofes": "Alemania, Bélgica", "idiomaOficial": "Neerlandés"},
+   
+    {"id" : 138, "pais": "Pakistán", "capital": " Islamabad", "img": "img/Pakistan.png", "poblacion": "200 813 818", "continente": "Asia", "superficie": "796 095 km²", "moneda": "Rupia pakistaní (PKR)", "paisesLimitrofes": "Afganistán, China, India, Irán", "idiomaOficial": "Inglés, Urdu"},
+
+    {"id" : 139, "pais": "Palaos", "capital": "Melekeok", "img": "img/Palau.png", "poblacion": "21 964", "continente": "Oceanía", "superficie": "459 km²", "moneda": "Dólar estadounidense (USD)", "paisesLimitrofes": "", "idiomaOficial": "Inglés, Palauano"},
+   
+    {"id" : 140, "pais": "Palestina", "capital": "Jerusalén Este", "img": "img/Palestine.png", "poblacion": "5 052 776", "continente": "Asia", "superficie": "6 520 km²", "moneda": "Nuevo shéquel (ILS)", "paisesLimitrofes": "Egipto, Israel, Jordania", "idiomaOficial": "Árabe"},
+   
+    {"id" : 141, "pais": "Panamá", "capital": "Panamá", "img": "img/Panama.png", "poblacion": "4 162 618", "continente": "América", "superficie": "75 417 km²", "moneda": "Balboa panameño (PAB)", "paisesLimitrofes": "Colombia, Costa Rica", "idiomaOficial": "Español"},
+   
+    {"id" : 142, "pais": "Papúa Nueva Guinea", "capital": "Puerto Moresby", "img": "img/Papouasie-Nouvelle-Guinee.png", "poblacion": "8 418 346", "continente": "Oceanía", "superficie": "462 840 km²", "moneda": "Kina (PGK)", "paisesLimitrofes": "Indonesia", "idiomaOficial": "Hiri motu, Inglés, Lengua de señas, Tok pisin"},
+   
+    {"id" : 143, "pais": "Paraguay", "capital": "Asunción", "img": "img/Paraguay.png", "poblacion": "6 896 908", "continente": "América", "superficie": "406 752 km²", "moneda": "Guaraní (PYG)", "paisesLimitrofes": "Argentina, Bolivia, Brasil", "idiomaOficial": "Español, Guaraní"},
+   
+    {"id" : 144, "pais": "Perú", "capital": "Lima", "img": "img/Perou.png", "poblacion": "32 551 815", "continente": "América", "superficie": "1 285 220 km²", "moneda": "Nuevo sol (PEN)", "paisesLimitrofes": "Bolivia, Brasil, Chile, Colombia, Ecuador", "idiomaOficial": "Aimara, Español, Quechua"},
+   
+    {"id" : 145, "pais": "Polonia", "capital": "Varsovia", "img": "img/Pologne.png", "poblacion": "38 104 832", "continente": "Europa", "superficie": "312 685 km²", "moneda": "Zloty (PLN)", "paisesLimitrofes": "Alemania, Bielorrusia, Eslovaquia, Lituania, República Checa, Rusia, Ucrania", "idiomaOficial": "Polaco"},
+   
+    {"id" : 146, "pais": "Portugal", "capital": "Lisboa", "img": "img/Portugal.png", "poblacion": "10 291 196", "continente": "Europa", "superficie": "92 090 km²", "moneda": "Euro (EUR)", "paisesLimitrofes": "España", "idiomaOficial": "Portugués"},
+   
+    {"id" : 147, "pais": "República Centroafricana", "capital": "Bangui", "img": "img/Rep_centrafricaine.png", "poblacion": "4 737 423", "continente": "Africa", "superficie": "622 984 km²", "moneda": "Franco CFA de África Central (XAF)", "paisesLimitrofes": "Camerún, Chad, Congo, República Democrática del Congo, Sudán, Sudán del Sur", "idiomaOficial": "Francés, Sango"},
+   
+    {"id" : 148, "pais": "República Checa", "capital": "Praga", "img": "img/Rep_Tcheque.png", "poblacion": "10 625 250", "continente": "Europa", "superficie": "78 865 km²", "moneda": "Corona checa (CZK)", "paisesLimitrofes": "Alemania, Austria, Eslovaquia, Polonia", "idiomaOficial": "Checo"},
+
+    {"id" : 149, "pais": "República Democrática del Congo", "capital": "Kinsasa", "img": "img/RD_Congo.png", "poblacion": "84 004 989", "continente": "Africa", "superficie": "2 344 860 km²", "moneda": "Franco congoleño (CDF)", "paisesLimitrofes": "Angola, Angola, Burundi, Congo, República Centroafricana, Ruanda, Sudán del Sur, Tanzania, Uganda, Zambia", "idiomaOficial": "Francés"},
+       
+    {"id" : 150, "pais": "República Dominicana", "capital": "Santo Domingo", "img": "img/Rep_Dominicaine.png", "poblacion": "10 882 996", "continente": "América", "superficie": "48 671 km²", "moneda": "Peso dominicano (DOP)", "paisesLimitrofes": "Haití", "idiomaOficial": "Español"},
+       
+    {"id" : 151, "pais": "Ruanda", "capital": "Kigali", "img": "img/Rwanda.png", "poblacion": "12 501 156", "continente": "Africa", "superficie": "26 338 km²", "moneda": "Franco ruandés (RWF)", "paisesLimitrofes": "Burundi, República Democrática del Congo, Tanzania, Uganda", "idiomaOficial": " Francés, Inglés, Kiñaruanda, Suajili, Suajili"},
+    
+    {"id" : 152, "pais": "Rumania", "capital": "Bucarest", "img": "img/Roumanie.png", "poblacion": "19 580 634", "continente": "Europa", "superficie": "238 391 km²", "moneda": "Leu rumano (RON)", "paisesLimitrofes": "Bulgaria, Hungría, Moldavia, Serbia, Ucrania", "idiomaOficial": "Rumano"},
+    
+    {"id" : 153, "pais": "Rusia", "capital": "Moscú", "img": "img/Russie.png", "poblacion": "143 964 709", "continente": "Europa", "superficie": "17 098 200 km²", "moneda": "Rublo ruso (RUB)", "paisesLimitrofes": "Azerbaiyán, Bielorrusia, China, Corea del Norte, Estonia, Finlandia, Georgia, Kazajistán, Letonia, Lituania, Mongolia, Noruega, Polonia, Ucrania", "idiomaOficial": "Ruso"},
+    
+    {"id" : 154, "pais": "Samoa", "capital": "Apia", "img": "img/Samoa.png", "poblacion": "55 679", "continente": "Oceanía", "superficie": "2 842 km²", "moneda": "Tala (WST)", "paisesLimitrofes": "", "idiomaOficial": "Inglés, Samoano"},
+    
+    {"id" : 155, "pais": "San Cristóbal y Nieves", "capital": "Basseterre", "img": "img/Saint_Kits.png", "poblacion": "55 850", "continente": "América", "superficie": "261 km²", "moneda": "Dólar del Caribe Oriental (XCD)", "paisesLimitrofes": "", "idiomaOficial": "Inglés"},
+    
+    {"id" : 156, "pais": "San Marino", "capital": "San Marino", "img": "img/Saint-Marin.png", "poblacion": "33 557", "continente": "Europa", "superficie": "61 km²", "moneda": "Euro (EUR)", "paisesLimitrofes": "Italia", "idiomaOficial": "Italiano"},
+    
+    {"id" : 157, "pais": "San Vicente y las Granadinas", "capital": "Kingstown", "img": "img/Saint_Vincent.png", "poblacion": "110 200", "continente": "America", "superficie": "389 km²", "moneda": "Dólar del Caribe Oriental (XCD)", "paisesLimitrofes": "", "idiomaOficial": "Inglés"},
+    
+    {"id" : 158, "pais": "Santa Lucía", "capital": "Castries", "img": "img/Sainte_Lucie.png", "poblacion": "179 667", "continente": "América", "superficie": "539 km²", "moneda": "", "paisesLimitrofes": "Dólar del Caribe Oriental (XCD)", "idiomaOficial": "Inglés"},
+    
+    {"id" : 159, "pais": "Santo Tomé y Príncipe", "capital": "Santo Tomé", "img": "img/Sao_Tome_et_Principe.png", "poblacion": "208 818", "continente": "Africa", "superficie": "964 km²", "moneda": "Dobra (STD)", "paisesLimitrofes": "", "idiomaOficial": "Portugués"},
+    
+    {"id" : 160, "pais": "Senegal", "capital": "Dakar", "img": "img/Senegal.png", "poblacion": "16 294 270", "continente": "Africa", "superficie": "196 722 km²", "moneda": "Franco CFA de África Occidental (XOF)", "paisesLimitrofes": "Gambia, Guinea, Guinea-Bisáu, Malí, Mauritania", "idiomaOficial": "Francés"},
+    
+    {"id" : 161, "pais": "Serbia", "capital": "Belgrado", "img": "img/Serbie.png", "poblacion": "8 762 027", "continente": "Europa", "superficie": "88 361 km²", "moneda": "Dinar serbio (RSD)", "paisesLimitrofes": "Bosnia-Herzegovina, Bulgaria, Croacia, Hungría, Kosovo, Montenegro, Rumania", "idiomaOficial": "Serbio"},
+    
+    {"id" : 162, "pais": "Seychelles", "capital": "Victoria", "img": "img/Seychelles.png", "poblacion": "95 235", "continente": "Africa", "superficie": "452 km²", "moneda": "Rupia de Seychelles (SCR)", "paisesLimitrofes": "", "idiomaOficial": "Criollo seychelense, Francés, Inglés"},
+    
+    {"id" : 163, "pais": "Sierra Leona", "capital": "Freetown", "img": "img/Sierra_Leone.png", "poblacion": "7 719 729", "continente": "Africa", "superficie": "71 740 km²", "moneda": "Leone (SLL)", "paisesLimitrofes": "Guinea, Liberia", "idiomaOficial": "Inglés"},
+    
+    {"id" : 164, "pais": "Singapur", "capital": "Singapur", "img": "img/Singapour.png", "poblacion": "5 791 901", "continente": "Asia", "superficie": "710 km²", "moneda": "Dólar de Singapur (SGD)", "paisesLimitrofes": "Malasia", "idiomaOficial": "Chino mandarín, Inglés, Malayo, Tamil"},
+    
+    {"id" : 165, "pais": "Siria", "capital": "Damasco", "img": "img/Syrie.png", "poblacion": "18 284 407", "continente": "Asia", "superficie": "185 180 km²", "moneda": "Libra siria (SYP)", "paisesLimitrofes": "Irak, Israel, Jordania, Líbano, Turquía", "idiomaOficial": "Árabe"},
+    
+    {"id" : 166, "pais": "Somalia", "capital": "Mogadiscio", "img": "img/Somalie.png", "poblacion": "15 181 925", "continente": "Africa", "superficie": "637 657 km²", "moneda": "Chelín somalí (SOS)", "paisesLimitrofes": "Etiopía, Kenia, Yibuti", "idiomaOficial": "Somalí, Árabe"},
+    
+    {"id" : 167, "pais": "Sri Lanka", "capital": "Sri Jayawardenapura Kotte", "img": "img/Sri_Lanka.png", "poblacion": "20 950 041", "continente": "Asia", "superficie": "65 610 km²", "moneda": "Rupia de Sri Lanka (LKR)", "paisesLimitrofes": "", "idiomaOficial": "Cingalés, Tamil"},
+    
+    {"id" : 168, "pais": "Sudáfrica", "capital": "Pretoria, Bloemfontein, Ciudad del Cabo", "img": "img/Afrique_Du_Sud.png", "poblacion": "57 398 421", "continente": "Africa", "superficie": "1 221 040 km²", "moneda": "Rand sudafricano (ZAR)", "paisesLimitrofes": "Botsuana, Lesoto, Mozambique, Namibia, Zimbabue", "idiomaOficial": "Afrikáans, Inglés, Ndebele, Sotho, Sotho del norte, Suazi, Tsonga , Tswana, Venda, Xhosa, Zulú"},
+    
+    {"id" : 169, "pais": "Sudán", "capital": "Jartum", "img": "img/Soudan.png", "poblacion": "41 511 526", "continente": "Africa", "superficie": "1 861 480 km²", "moneda": "Libra sudanesa (SDG)", "paisesLimitrofes": "Chad, Egipto, Eritrea, Etiopía, Libia, República Centroafricana, Sudán del Sur", "idiomaOficial": "Inglés, Árabe"},
+    
+    {"id" : 170, "pais": "Sudán del Sur", "capital": "Yuba", "img": "img/Soudan_Du_Sud.png", "poblacion": "12 919 053", "continente": "Africa", "superficie": "619 745 km²", "moneda": "Libra sursudanesa (SSP)", "paisesLimitrofes": "Etiopía, Kenia, República Centroafricana, República Democrática del Congo, Sudán, Uganda", "idiomaOficial": " Inglés"},
+    
+    {"id" : 171, "pais": "Suecia", "capital": "Estocolmo", "img": "img/Suede.png", "poblacion": "9 982 709", "continente": "Europa", "superficie": "450 295 km²", "moneda": "Corona sueca (SEK)", "paisesLimitrofes": "Dinamarca, Finlandia, Noruega", "idiomaOficial": "Sueco"},
+    
+    {"id" : 172, "pais": "Suiza", "capital": "Berna", "img": "img/Suisse.png", "poblacion": "8 544 034", "continente": "Europa", "superficie": "41 277 km²", "moneda": "Franco suizo (CHF)", "paisesLimitrofes": "Alemania, Austria, Francia, Italia, Liechtenstein", "idiomaOficial": "Alemán, Francés, Italiano, Romanche"},
+    
+    {"id" : 173, "pais": "Surinam", "capital": "Paramaribo", "img": "img/Suriname.png", "poblacion": "568 301", "continente": "América", "superficie": "163 820 km²", "moneda": "Dólar surinamés (SRD)", "paisesLimitrofes": "Brasil, Guyana", "idiomaOficial": "Neerlandés"},
+    
+    {"id" : 174, "pais": "Tailandia", "capital": "Bangkok", "img": "img/Thailande.png", "poblacion": "69 183 173", "continente": "Asia", "superficie": "513 120 km²", "moneda": "Baht tailandés (THB)", "paisesLimitrofes": "Birmania, Camboya, Laos, Malasia", "idiomaOficial": "Tailandés"},
+    
+    {"id" : 175, "pais": "Taiwán", "capital": "Taipéi", "img": "img/Taiwan.png", "poblacion": "23 519 518", "continente": "Asia", "superficie": "36 191 km²", "moneda": "Nuevo dólar taiwanés (TWD)", "paisesLimitrofes": "", "idiomaOficial": "Chino mandarín"},
+    
+    {"id" : 176, "pais": "Tanzania", "capital": "Dodoma", "img": "img/Tanzanie.png", "poblacion": "59 091 392", "continente": "Africa", "superficie": "945 087 km²", "moneda": "Chelín tanzano (TZS)", "paisesLimitrofes": "Burundi, Kenia, Malaui, Mozambique, República Democrática del Congo, Ruanda, Uganda, Zambia", "idiomaOficial": "Suajili"},
+    
+    {"id" : 177, "pais": "Tayikistán", "capital": "Dusambé", "img": "img/Tadjikistan.png", "poblacion": "9 107 211", "continente": "Asia", "superficie": "143 100 km²", "moneda": "Somoni tayiko (TJS)", "paisesLimitrofes": "Afganistán, China, Kirguistán, Uzbekistán", "idiomaOficial": "Tayiko"},
+    
+    {"id" : 178, "pais": "Timor Oriental", "capital": "Dili", "img": "img/Timor-Oriental.png", "poblacion": "1 324 094", "continente": "Oceanía", "superficie": "14 874 km²", "moneda": "Dólar estadounidense (USD)", "paisesLimitrofes": "Indonesia", "idiomaOficial": "Portugués, Tetun"},
+    
+    {"id" : 179, "pais": "Togo", "capital": "Lomé", "img": "img/Togo.png", "poblacion": "7 990 926", "continente": "Africa", "superficie": "56 785 km²", "moneda": "Franco CFA de África Occidental (XOF)", "paisesLimitrofes": "Benín, Burkina Faso, Ghana", "idiomaOficial": "Francés"},
+    
+    {"id" : 180, "pais": "Tonga", "capital": "Nukualofa", "img": "img/Tonga.png", "poblacion": "109 008", "continente": "Oceanía", "superficie": "747 km²", "moneda": "Pa'anga (TOP)", "paisesLimitrofes": "", "idiomaOficial": "Inglés, Tongano"},
+    
+    {"id" : 181, "pais": "Trinidad y Tobago", "capital": "Puerto España", "img": "img/Trinite_et_Tobago.png", "poblacion": "1 372 598", "continente": "América", "superficie": "5 130 km²", "moneda": "Dólar trinitense (TTD)", "paisesLimitrofes": "", "idiomaOficial": "Inglés"},
+    
+    {"id" : 182, "pais": "Túnez", "capital": "Túnez", "img": "img/Tunisie.png", "poblacion": "11 659 174", "continente": "Africa", "superficie": "163 610 km²", "moneda": "Dinar tunecino (TND)", "paisesLimitrofes": "Argelia, Libia", "idiomaOficial": "Árabe"},
+    
+    {"id" : 183, "pais": "Turkmenistán", "capital": "Asjabad", "img": "img/Turkmenistan.png", "poblacion": "5 851 466", "continente": "Asia", "superficie": "488 100 km²", "moneda": "Manat turcomano (TMT)", "paisesLimitrofes": "Afganistán, Irán, Kazajistán, Uzbekistán", "idiomaOficial": "Ruso, Turcomano"},
+    
+    {"id" : 184, "pais": "Turquía", "capital": "Ankara", "img": "img/Turquie.png", "poblacion": "81 916 871", "continente": "Asia", "superficie": "783 562 km²", "moneda": "Lira turca (TRY)", "paisesLimitrofes": "Armenia, Azerbaiyán, Bulgaria, Georgia, Grecia, Irak, Irán, Siria", "idiomaOficial": "Turco"},
+
+    {"id" : 185, "pais": "Tuvalu", "capital": "Funafuti", "img": "img/Tuvalu.png", "poblacion": "11 287", "continente": "Oceanía", "superficie": "26 km²", "moneda": "Dólar australiano (AUD)", "paisesLimitrofes": "", "idiomaOficial": "Inglés, Tuvaluano"},
+    
+    {"id" : 186, "pais": "Ucrania", "capital": "Kiev", "img": "img/Ukraine.png", "poblacion": "44 009 214", "continente": "Europa", "superficie": "603 500 km²", "moneda": "Grivna (UAH)", "paisesLimitrofes": "Bielorrusia, Eslovaquia, Hungría, Moldavia, Polonia, Rumania, Rusia", "idiomaOficial": "Ucraniano"},
+    
+    {"id" : 187, "pais": "Uganda", "capital": "Kampala", "img": "img/Ouganda.png", "poblacion": "44 270 563", "continente": "Africa", "superficie": "241 550 km²", "moneda": "Chelín ugandés (UGX)", "paisesLimitrofes": "Kenia, República Democrática del Congo, Ruanda, Sudán del Sur, Tanzania", "idiomaOficial": "Inglés, Suajili, Suajili"},
+    
+    {"id" : 188, "pais": "Uruguay", "capital": "Montevideo", "img": "img/Uruguay.png", "poblacion": "3 469 551", "continente": "América", "superficie": "176 215 km²", "moneda": "Peso uruguayo (UYU)", "paisesLimitrofes": "Argentina, Brasil", "idiomaOficial": "Español"},
+    
+    {"id" : 189, "pais": "Uzbekistán", "capital": "Taskent", "img": "img/Ouzbekistan.png", "poblacion": "32 364 996", "continente": "Asia", "superficie": "447 400 km²", "moneda": "Som uzbeko (UZS)", "paisesLimitrofes": "Afganistán, Kazajistán, Kirguistán, Tayikistán, Turkmenistán", "idiomaOficial": "Uzbeko"},
+    
+    {"id" : 190, "pais": "Vanuatu", "capital": "Port Vila", "img": "img/Vanuatu.png", "poblacion": "282 117", "continente": "Oceanía", "superficie": "12 189 km²", "moneda": "Vatu (VUV)", "paisesLimitrofes": "", "idiomaOficial": "Bislama, Francés, Inglés"},
+    
+    {"id" : 191, "pais": "Vaticano", "capital": "Vaticano", "img": "img/Vatican.png", "poblacion": "801", "continente": "Europa", "superficie": "0,44 km²", "moneda": "Euro (EUR)", "paisesLimitrofes": "Italia", "idiomaOficial": "Italiano"},
+    
+    {"id" : 192, "pais": "Venezuela", "capital": "Caracas", "img": "img/Venezuela.png", "poblacion": "32 381 221", "continente": "América", "superficie": "912 050 km²", "moneda": "Bolívar fuerte (VEF)", "paisesLimitrofes": "Brasil, Colombia, Guyana", "idiomaOficial": "Español"},
+    
+    {"id" : 193, "pais": "Vietnam", "capital": "Hanói", "img": "img/Viet_Nam.png", "poblacion": "96 491 146", "continente": "Asia", "superficie": "331 212 km²", "moneda": "Dong vietnamita (VND)", "paisesLimitrofes": "Camboya, China, Laos", "idiomaOficial": "Vietnamita"},
+    
+    {"id" : 194, "pais": "Yemen", "capital": "Saná", "img": "img/Yemen.png", "poblacion": "28 915 284", "continente": "Asia", "superficie": "527 968 km²", "moneda": " Rial yemení (YER)", "paisesLimitrofes": "Arabia Saudita, Omán", "idiomaOficial": "Árabe"},
+    
+    {"id" : 195, "pais": "Yibuti", "capital": "Yibuti", "img": "img/Djibouti.png", "poblacion": "971 408", "continente": "Africa", "superficie": "23 200 km²", "moneda": "Franco yibutiano (DJF)", "paisesLimitrofes": "Eritrea, Etiopía, Somalia", "idiomaOficial": "Francés, Árabe"},
+
+    {"id" : 196, "pais": "Zambia", "capital": "Lusaka", "img": "img/Zambie.png", "poblacion": "17 609 178", "continente": "Africa", "superficie": "752 612 km²", "moneda": "Kwacha zambiano (ZMW)", "paisesLimitrofes": "Angola, Botsuana, Malaui, Mozambique, Namibia, República Democrática del Congo, Tanzania, Zimbabue", "idiomaOficial": "Inglés"},
+
+    {"id" : 197, "pais": "Zimbabue", "capital": "Harare", "img": "img/Zimbabwe.png", "poblacion": "16 913 261", "continente": "Africa", "superficie": "390 757 km²", "moneda": "Dólar estadounidense (USD)", "paisesLimitrofes": "Botsuana, Mozambique, Sudáfrica, Zambia", "idiomaOficial": "Chewa, Chibarwe, Chitonga, Inglés, Kalanga, Koisan, Lengua de señas, Nambya, Ndau, Ndebele, Shangani, Shona, Sotho, Tswana, Venda, Xhosa"}
+]
