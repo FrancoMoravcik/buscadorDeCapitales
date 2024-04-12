@@ -50,7 +50,7 @@ function mostrarPais () {
     <div class="divImgInfo">
     <img src="${pais.img}" class="imgBtnPais m-4" alt="...">
     </div>  
-  <h2 class="text-center m-2">${pais.pais}</h2>
+  <h2 class="text-center mt-5 h2">${pais.pais}</h2>
     <h4 class="h4Info">${pais.capital}</h4>
     </div>
     <div class="div2Info">

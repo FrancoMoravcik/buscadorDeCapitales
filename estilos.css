@@ -8,7 +8,6 @@
     font-family: "raleway", sans-serif;
     font-weight: 400;
     font-style: normal;
-    background-color: #1a1d20;
 }
 
 
@@ -17,7 +16,7 @@
 
 .seccionBuscador{
     width: 100%;
-    height: 620px;
+    height: auto;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -26,7 +25,7 @@
 }
 
 .h1 {
-    color: #ffffff;
+    color: #000000;
     margin: 120px 0px 100px 0px;
     text-shadow: 2px 2px #e9ecef2f;
     padding: 10px;
@@ -38,27 +37,29 @@
 }
 
 .btnBuscar {
-    background-color: #212529;
-    color: #e9ecef;
+    background-color: #000000;
+    color: #ffffff;
     padding: 7px;
     border-radius: 5px;
     border: none;
     font-weight: 500;
      letter-spacing: 1px;
      transition: all .5s;
+     border: 1px solid transparent;
 }
 
 .btnBuscar:hover {
-    background-color: #e9ecef;
-    color: #212529;
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid black;
 }
 
 .input{
     padding: 7px;
     border-radius: 5px;
-    background-color: #212529;
+    background-color: #000000;
     outline: none;
-    color: #e9ecef;
+    color: #ffffff;
     border: none;
     width: 250px;
 }
@@ -66,15 +67,15 @@
 .btnPais {
     border: none;
     border-radius: 10px;
-    width: 170px;
-    height: 120px;
+    width: 250px;
+    height: 150px;
     background: transparent;
 }
 
 .imgBtnPais {
     border-radius: 10px;
-    width: 170px;
-    height: 120px;
+    width: 250px;
+    height: 150px;
 }
 
 .imgActive {
@@ -84,23 +85,22 @@
 }
 
 .icono {
-    background-color: transparent;
+    background-color: black;
+    border-radius: 7px;
+}
+
+.icono:active {
+    background-color: rgba(7, 7, 7, 0.288);
+    
 }
 
 
 /* Seccion Pais */
-
-.contenedorPais {
-    background-color: #1a1d20;
-}
-
 .divInfoDePais {
     width: 100%;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: #1a1d20;
-    margin: -100px 0px 20px 0px;
 }
 
 .div1Info {
@@ -112,12 +112,8 @@
     align-items: center;
     border-radius: 10px;
     padding: 20px;
-    background-color: #1a1d20;
-    color: #e9ecef;
-    border: 1px solid #e9ecefa9;
+    color: #1c1c1d;
 }
-
-
 
 .div2Info {
     width: 400px;
@@ -128,9 +124,7 @@
     align-items: start;
     border-radius: 10px;
     padding: 20px;
-    background-color: #1a1d20;
-    color: #e9ecef;
-    border: 1px solid #e9ecefa9;
+    color: #000000;
 }
 
 
@@ -138,42 +132,51 @@
     height: 50%;
 }
 
+.h2{
+     font-weight: 600;
+}
+
 .h4Info {
-  font-weight: 300;
+  font-weight: 500;
 }
 
 h5 {
     width: 100%;
-    font-weight: 300;
+   
+}
+
+.p-1{
+    font-size: 24px;
+    font-weight: 400;
 }
 
 .spanInfo {
-font-size: 17px;
-font-weight: 600;
+font-size: 19px;
+font-weight: bold;
 }
 
 .spanInfoNumero {
     font-family: 'Roboto', sans-serif;
 }
 
-/* Footer */
+/* header */
 
-footer{
+header{
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.footer {
+.header {
     background-color: #212529;
 }
-.pFooter {
+.pheader {
     margin: 5px;
     color: #e9ecef;
     font-weight: 400;
     background-color: #212529;
 }
-.spanFooter{
+.spanheader{
     color: #e9ecef;
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
